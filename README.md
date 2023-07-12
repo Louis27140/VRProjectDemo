@@ -12,7 +12,7 @@ Veuillez cliquer sur le lien ci-dessous pour visionner une démonstration de mon
 
 [![Vidéo de Démo](https://i1.ytimg.com/vi/rHYu4AqBN0Q/hqdefault.jpg)](https://youtu.be/rHYu4AqBN0Q)
 
-La vidéo vous fournira un aperçu visuel des fonctionnalités de notre projet, mettant en évidence la teleportation, le grab et le grab à distance. Nous espérons que cela vous donnera un aperçu convaincant de l'expérience immersive que notre projet peut offrir.
+La vidéo vous fournira un aperçu visuel des fonctionnalités de notre projet, mettant en évidence la teleportation, le grab et le grab à distance. j'espère que cela vous donnera un aperçu convaincant de l'expérience immersive que notre projet peut offrir.
 
 ## Prérequis
 
@@ -49,7 +49,7 @@ Ce projet utilise des assets achetés dans l'Asset Store de Unity pour améliore
 
 ## Environnement 360°
 
-Pour créer un environnement immersif, nous utilisons des images panoramiques à 360 degrés. Nous avons utilisé les outils suivants pour générer et convertir ces images :
+Pour créer un environnement immersif, j'ai utilisé des images panoramiques à 360 degrés. j'ai utilisé les outils suivants pour générer et convertir ces images :
 
 - [Skybox](https://skybox.blockadelabs.com/) : Un outil en ligne pour générer des images panoramiques à 360 degrés.
 - [Panorama to Cubemap](https://jaxry.github.io/panorama-to-cubemap/) : Un convertisseur en ligne qui transforme une image panoramique à 360 degrés en un cube-texture utilisable dans Unity.
