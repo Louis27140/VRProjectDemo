@@ -8,7 +8,7 @@ Demo Video on YouTube
 
 Please click on the link below to watch a demonstration video of my virtual reality project:
 
-Demo Video
+[![Vidéo de Démo](https://i1.ytimg.com/vi/rHYu4AqBN0Q/hqdefault.jpg)](https://youtu.be/rHYu4AqBN0Q)
 
 The video will provide you with a visual overview of the features of our project, highlighting teleportation, object grabbing, and long-distance grabbing. I hope this will give you a compelling glimpse of the immersive experience that our project can offer.
 Prerequisites
