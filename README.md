@@ -1,4 +1,4 @@
-# VR Project Demo - Portfolio
+# VR Project Demo - Portfolio [EN](README_EN.md)
 
 Bienvenue dans mon projet de réalité virtuelle bac à sable, implémentant des interactions telles que la teleportation, le grab (prise d'objet) et le grab à distance (Half Life Alyx). Ce README.md vous fournira une description générale du projet, ainsi qu'un lien vers une vidéo YouTube présentant une démonstration de ces interactions.
 
