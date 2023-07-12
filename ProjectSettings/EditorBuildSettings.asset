@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SandBox.unity
+    guid: 38f27a7ee5f1cf147b9768818dad2348
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 193c40c4e008af241be3faa616fb7f7b, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bb127f2984eb95440adf5f61c5571af8, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ac232c8a10f78d841aac6c25e7adbc4a, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 81c4bc1160216b34b993e5b6d438b414, type: 2}
